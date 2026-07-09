@@ -6,7 +6,7 @@
   - Lab Flowchart/Pseudocode [link](https://github.com/Kaikinju/SC612104-coursework/blob/c4e8783963b068d6b9cb57c2b6fd3f45185de50a/Lab_Flowchart_Pseudocode.ipynb)
 - Lab Functions [link](https://github.com/Kaikinju/SC612104-coursework/blob/e4a36d0fdaade4ec1cc5e61ae54d8e1bff0d9c54/Lab_Function.ipynb)
 - Lab Object Oriented Programming [link](https://github.com/Kaikinju/SC612104-coursework/blob/5f023209b5cb7720aeb73e71888ed00c26aad4a9/Lab_OOP.ipynb)
-- Lab NumPy 
+- Lab NumPy [link](https://github.com/Kaikinju/SC612104-coursework/blob/d0fc0f6bfa1319b1c211d1b0e22243f7d8c00d9f/Lab_NumPy.ipynb)
 - Lab Pandas Basic 
 - Lab Pandas Advanced 
 - Lab Data Cleaning 
