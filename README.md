@@ -7,9 +7,9 @@
 - Lab Functions [link](https://github.com/Kaikinju/SC612104-coursework/blob/e4a36d0fdaade4ec1cc5e61ae54d8e1bff0d9c54/Lab_Function.ipynb)
 - Lab Object Oriented Programming [link](https://github.com/Kaikinju/SC612104-coursework/blob/5f023209b5cb7720aeb73e71888ed00c26aad4a9/Lab_OOP.ipynb)
 - Lab NumPy [link](https://github.com/Kaikinju/SC612104-coursework/blob/d0fc0f6bfa1319b1c211d1b0e22243f7d8c00d9f/Lab_NumPy.ipynb)
-- Lab Pandas Basic 
-- Lab Pandas Advanced 
-- Lab Data Cleaning 
-- Lab Data Visualization 
-- Lab SQL Basic 
-- Lab SQL Advanced 
+- Lab Pandas Basic [link](https://github.com/Kaikinju/SC612104-coursework/blob/e78e2af20393d36bf191828caa6730a8812eaf35/Lab_Pandas_Basics.ipynb)
+- Lab Pandas Advanced [link]()
+- Lab Data Cleaning [link]()
+- Lab Data Visualization [link]()
+- Lab SQL Basic [link]()
+- Lab SQL Advanced [link]()
