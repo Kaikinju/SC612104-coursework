@@ -9,7 +9,7 @@
 - Lab NumPy [link](https://github.com/Kaikinju/SC612104-coursework/blob/d0fc0f6bfa1319b1c211d1b0e22243f7d8c00d9f/Lab_NumPy.ipynb)
 - Lab Pandas Basic [link](https://github.com/Kaikinju/SC612104-coursework/blob/e78e2af20393d36bf191828caa6730a8812eaf35/Lab_Pandas_Basics.ipynb)
 - Lab Pandas Advanced [link](https://github.com/Kaikinju/SC612104-coursework/blob/cbb316c1384c3aac509186be7d98a527d68d44dc/Lab_Pandas_Advanced.ipynb)
-- Lab Data Cleaning [link]()
+- Lab Data Cleaning [link](https://github.com/Kaikinju/SC612104-coursework/blob/668f1b7206eed237b0b72666deddd2bae6a92de5/Lab_Data%20Cleaning.ipynb)
 - Lab Data Visualization []()
 - Lab SQL Basic []()
 - Lab SQL Advanced []()
